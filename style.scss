@@ -42,6 +42,11 @@ body {
         margin-top: 20px;
         width: 100%;
         font-size: larger;
+        &:hover {
+          background-color: $secondary-color;
+        }
     }
+
+
   }
 }

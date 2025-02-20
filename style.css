@@ -42,5 +42,8 @@ body {
   width: 100%;
   font-size: larger;
 }
+.profile-card .profile-info .btn-primary:hover {
+  background-color: #6372d3;
+}
 
 /*# sourceMappingURL=style.css.map */
